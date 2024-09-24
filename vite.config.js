@@ -4,5 +4,5 @@ import { ghPages } from 'vite-plugin-gh-pages';
 
 export default defineConfig({
   plugins: [react(), ghPages()],
-  base: '/nombre-repositorio/',  // Ajusta el nombre de tu repositorio
+  base: '/bancoseguridad/',  // Ajusta el nombre de tu repositorio
 });
